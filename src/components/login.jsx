@@ -21,7 +21,7 @@ export default function Tp() {
         <input className='px-4 h-12 my-2 border border-1 border-gray-300 rounded-lg '  type="email" placeholder='Enter email or phone number' />
         <input className='px-4 h-12 my-2 border border-1 border-gray-300 rounded-lg ' type="password" placeholder='Password' />
       <button className="btn bg-blue-500 text-white py-2 my-2 rounded-md font-bold text-xl">Log in</button>
-      <span className='text-center text-blue-700 text-sm my-2  '>Forgotten password?</span>
+      <span className='text-center text-blue-700 text-sm my-2 hover:cursor-pointer  '><button className='hover:underline'> Forgotten password?</button></span>
       <hr  className='my-2'/>
     <button className='btn bg-green-600 text-white py-2 px-4 mx-auto my-2 w-fit  rounded-md font-bold text-xl'>Create new account</button>
 

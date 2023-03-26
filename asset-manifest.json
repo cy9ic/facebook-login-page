@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/facebook-login-page/static/css/main.89dcee40.css",
+    "main.js": "/facebook-login-page/static/js/main.eaa98281.js",
+    "static/js/787.02c0f6fe.chunk.js": "/facebook-login-page/static/js/787.02c0f6fe.chunk.js",
+    "static/media/fb.svg": "/facebook-login-page/static/media/fb.798ff419268bc0baf33577488789967c.svg",
+    "index.html": "/facebook-login-page/index.html",
+    "main.89dcee40.css.map": "/facebook-login-page/static/css/main.89dcee40.css.map",
+    "main.eaa98281.js.map": "/facebook-login-page/static/js/main.eaa98281.js.map",
+    "787.02c0f6fe.chunk.js.map": "/facebook-login-page/static/js/787.02c0f6fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dcee40.css",
+    "static/js/main.eaa98281.js"
+  ]
+}

@@ -1,6 +1,8 @@
 {
   "name": "fblogin",
   "version": "0.1.0",
+  "homepage": "https://cy9ic.github.io/facebook-login-page",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,6 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -37,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.2.7"
   }
 }
